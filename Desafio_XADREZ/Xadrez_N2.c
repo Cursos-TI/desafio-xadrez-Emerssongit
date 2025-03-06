@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    
+    //Variaveis do bispo e rainha.
     int c = 1;
     int b = 1;
 
